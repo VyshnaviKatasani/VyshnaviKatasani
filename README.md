@@ -154,16 +154,6 @@ ROS2 • Gazebo • RViz • SLAM
 
 ---
 
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VyshnaviKatasani&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
 # 🌱 Currently Learning
 
 - AI Agents
