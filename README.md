@@ -66,21 +66,12 @@
 
 ---
 
-## 🤖 Generative AI & AI Agents
-
-| Project | Technologies | Description |
-|---------|--------------|-------------|
-| 🤖 AI Agent Applications | LLMs, RAG | Intelligent AI agent workflows using Retrieval-Augmented Generation. |
-| 🧠 Multi-Agent Systems | LangGraph, AI Agents | Collaborative autonomous AI agents for complex task execution. |
-
----
-
-## 📊 Machine Learning
+## 📊 Machine Learning & Deep Learning
 
 | Project | Technologies | Description |
 |---------|--------------|-------------|
 | 📈 CTR Prediction | Scikit-learn, XGBoost | Click-through rate prediction using ensemble machine learning models. |
-| 🧠 Deep Learning Experiments | PyTorch, TensorFlow | Neural network implementations and model optimization experiments. |
+| 🧠 EEG based seizure classification | PyTorch, TensorFlow |Developed CNN-based EEG seizure classifier achieving 96% accuracy on Physionet CHB-MIT dataset|
 
 ---
 
@@ -182,7 +173,6 @@ ROS2 • Gazebo • RViz • SLAM
 - Edge AI Optimization
 - TinyML
 - Autonomous Navigation
-- CUDA
 
 ---
 
@@ -195,8 +185,6 @@ ROS2 • Gazebo • RViz • SLAM
 ✅ Publish technical blogs
 
 ✅ Contribute to ROS2
-
-✅ Win national hackathons
 
 ✅ Master AI + Robotics
 
