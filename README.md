@@ -38,6 +38,7 @@
 - 🤖 Autonomous Mobile Robot using ROS2
 - 🧠 AI Agents & Multi-Agent Systems
 - 📚 Retrieval-Augmented Generation (RAG)
+- ✨ LLM & Gen AI
 - 👁️ Computer Vision with YOLO
 - ⚡ Edge AI Deployment
 - 🦾 Embedded Machine Learning
@@ -162,17 +163,6 @@ ROS2 • Gazebo • RViz • SLAM
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VyshnaviKatasani&theme=tokyo-night"/>
 
 </p>
-
----
-
-# 🌱 Currently Learning
-
-- AI Agents
-- LangGraph
-- LLM Engineering
-- Edge AI Optimization
-- TinyML
-- Autonomous Navigation
 
 ---
 
