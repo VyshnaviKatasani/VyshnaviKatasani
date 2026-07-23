@@ -44,33 +44,53 @@
 
 ---
 
-# 🏆 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 Autonomous Mobile Robot
-ROS2 • Gazebo • RViz • LiDAR • SLAM • Navigation
+## 🤖 Robotics & Autonomous Systems
 
----
-
-### 👷 Edge AI PPE Detection
-YOLO • TensorFlow Lite • Raspberry Pi • OpenCV
-
----
-
-### ☁️ AI Cloud & Shadow Detection
-NRSC (ISRO Challenge)
-Remote Sensing • GeoTIFF • Image Processing
+| Project | Technologies | Description |
+|---------|--------------|-------------|
+| 🤖 Autonomous Mobile Robot | ROS2, Gazebo, RViz, LiDAR | Differential drive robot simulation with navigation and sensor integration. |
+| 🚗 Gesture Controlled Robot | Python, OpenCV, Arduino | Hand gesture-based robotic vehicle control using computer vision. |
+| 🦾 Industrial Robotic Arm | Arduino, Embedded Systems | 4-DOF robotic arm demonstrating motion learning and control. |
 
 ---
 
-### 🚗 Gesture Controlled Robot
-Python • OpenCV • Arduino
+## 👁️ Computer Vision & Edge AI
+
+| Project | Technologies | Description |
+|---------|--------------|-------------|
+| 👷 Edge AI PPE Detection | YOLO, OpenCV, TensorFlow Lite | Real-time PPE detection and compliance monitoring on edge devices. |
+| 💧 Real-Time Saline Monitoring | Raspberry Pi, TensorFlow Lite | AI-powered IV saline level monitoring and alert system. |
+| ☁️ Cloud & Shadow Detection | Remote Sensing, OpenCV | Satellite image processing for cloud and cloud-shadow detection (NRSC Challenge). |
 
 ---
 
-### 🤖 AI Agent Projects
-LLMs • RAG • LangChain • Automation
+## 🤖 Generative AI & AI Agents
+
+| Project | Technologies | Description |
+|---------|--------------|-------------|
+| 🤖 AI Agent Applications | LLMs, RAG | Intelligent AI agent workflows using Retrieval-Augmented Generation. |
+| 🧠 Multi-Agent Systems | LangGraph, AI Agents | Collaborative autonomous AI agents for complex task execution. |
 
 ---
+
+## 📊 Machine Learning
+
+| Project | Technologies | Description |
+|---------|--------------|-------------|
+| 📈 CTR Prediction | Scikit-learn, XGBoost | Click-through rate prediction using ensemble machine learning models. |
+| 🧠 Deep Learning Experiments | PyTorch, TensorFlow | Neural network implementations and model optimization experiments. |
+
+---
+
+## ⚡ Embedded AI & IoT
+
+| Project | Technologies | Description |
+|---------|--------------|-------------|
+| 🌐 ESP32 AI Projects | ESP32, Embedded AI | TinyML and AI-enabled embedded applications. |
+| 📡 Raspberry Pi Projects | Raspberry Pi, Python | Edge computing and computer vision applications. |
+
 
 # 🛠 Tech Stack
 
